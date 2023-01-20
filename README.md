@@ -1,3 +1,3 @@
 # PriceCalculator
 
-Welcome, this repository contains our flutter project.
+Welcome, this repository contains our project made in Flutter.
